@@ -1,3 +1,4 @@
+//Author: Yue Xin
 package edu.ucsb.cs56.projects.games.simon_says;
 
 import java.awt.*;
